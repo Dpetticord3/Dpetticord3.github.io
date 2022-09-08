@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Daniel Petticord"
-  avatar           : "photo1.png"
+  avatar           : "/images/photo1.png"
   bio              : "I am a third-year PhD student at Cornell University"
   location         : "Outdoors"
   employer         :
